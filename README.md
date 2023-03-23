@@ -1,4 +1,7 @@
 # ShowObjectGUI
-![alt text](https://github.com/AkilarLiao/ShowObjectGUI/raw/main/ShowObjectGUI.png "Logo Title Text 1")
+Have you ever wondered why mesh renderer can automatically display associated materials,
 <br>
-If you want the mesh renderer to automatically display the associated material, use it.
+if you want to display more associated objects (such as Assets) like it, the simple ShowObjectGUI will be a solution.
+<br>
+<br>
+![alt text](https://github.com/AkilarLiao/ShowObjectGUI/raw/main/ShowObjectGUI.png "Logo Title Text 1")
